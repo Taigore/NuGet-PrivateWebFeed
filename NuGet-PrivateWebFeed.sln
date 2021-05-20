@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NuGet-PrivateWebFeed", "NuGet-PrivateWebFeed.csproj", "{7C01CB24-C34A-4824-85F9-6C55C3D1AACA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C01CB24-C34A-4824-85F9-6C55C3D1AACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C01CB24-C34A-4824-85F9-6C55C3D1AACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C01CB24-C34A-4824-85F9-6C55C3D1AACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C01CB24-C34A-4824-85F9-6C55C3D1AACA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FE1C59D-37BA-404D-8A96-27141B5790E1}
+	EndGlobalSection
+EndGlobal
